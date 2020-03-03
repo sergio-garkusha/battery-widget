@@ -1,8 +1,12 @@
 [package]
 name = "battery"
 version = "0.1.0"
-authors = ["sergii.garkusha <garkusha.sergiy@gmail.com>"]
+authors = ["Cu7ious <garkusha.sergiy@gmail.com>"]
 edition = "2018"
+license = "GPL v.3"
+description = "Battery widget for your command prompt"
+homepage = "https://github.com/Cu7ious/battery-widget"
+repository = "https://github.com/Cu7ious/battery-widget.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
