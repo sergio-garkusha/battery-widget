@@ -1,5 +1,5 @@
 [package]
-name = "battery"
+name = "battery-widget"
 version = "0.1.0"
 authors = ["Cu7ious <garkusha.sergiy@gmail.com>"]
 edition = "2018"
