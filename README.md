@@ -5,3 +5,6 @@
 </a>
 
 Battery widget for command prompt. Written in Rust.
+
+Current version is dependent on `ioreg` tool, which means it supports macOS only.
+Next update will add linux support.
